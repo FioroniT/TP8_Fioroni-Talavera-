@@ -2,18 +2,18 @@
 
 ### A continuación encontrarán los diagramas!
 
-* [Diagrama 1](https://i.imgur.com/WcPjYVi.png)
-* [Diagrama 2](https://i.imgur.com/yOnfXEa.png)
-* [Diagrama 3](https://i.imgur.com/L93hjFE.png)
-* [Diagrama 4](https://i.imgur.com/eE5PCMJ.png)
-* [Diagrama 5](https://i.imgur.com/e0RYMjJ.png)
-* [Diagrama 6](https://i.imgur.com/0rCbVNu.png)
-* [Diagrama 7](https://i.imgur.com/ECW776D.png)
-* [Diagrama 8](https://i.imgur.com/SlFvlz0.png)
-* [Diagrama 9](https://i.imgur.com/HgjFizU.png)
-* [Diagrama 10](https://i.imgur.com/EQ4AFwi.png)
-* [Diagrama 11](https://i.imgur.com/REDlXdK.png)
-* [Diagrama 12](https://i.imgur.com/VlKzbzm.png)
-* [Diagrama 13](https://i.imgur.com/Rjupvi0.png)
+* ![Diagrama 1](Diagramas/Diagrama Punto 1.png)
+* ![Diagrama 2](Diagramas/Diagrama punto 2.png)
+* ![Diagrama 3](Diagramas/Diagrama punto 3.png)
+* ![Diagrama 4](Diagramas/Diagrama punto 4.png)
+* ![Diagrama 5](Diagramas/Diagrama punto 5.png)
+* ![Diagrama 6](Diagramas/Diagrama punto 6.png)
+* ![Diagrama 7](Diagramas/Diagrama punto 7.png)
+* ![Diagrama 8](Diagramas/Diagrama punto 8.png)
+* ![Diagrama 9](Diagramas/Diagrama punto 9.png)
+* ![Diagrama 10](Diagramas/Diagrama punto 10.png)
+* ![Diagrama 11](Diagramas/Diagrama punto 11.png)
+* ![Diagrama 12](Diagramas/Diagrama punto 12.png)
+* ![Diagrama 13](Diagramas/Diagrama punto 13.png)
 
 #### :sunglasses: Equipo Talaverani :sunglasses:
