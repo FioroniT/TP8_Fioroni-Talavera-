@@ -1,4 +1,4 @@
-``` mermaid
+```python
 
 import random
 from random import *
