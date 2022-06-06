@@ -1,16 +1,20 @@
 ```python
 
-l=[]
+lista=[]
+posicion = 0
 for i in range(8, 40):
     numeros=int(input("Ingrese número: "))
-    l.append(numeros)
-print (l)
-limite = len(l)
+    lista.append(numeros)
+limite = len(lista)
 for i in range(limite):
-    if l[i] < 0:
-        negativo = l[i]
+    if lista[i] < 0:
+        negativo = lista[i]
+        posicion = i + 1
     else:
         pass
-print (f"El ultimo valor negativo es: {negativo}")
+if posicion == 0:
+    print ("No se ingresaron valores negativos")
+else:
+    print (f"El último valor negativo es {negativo} y esta en la posicion: {posicion}")
 
 ```
